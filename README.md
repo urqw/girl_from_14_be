@@ -4,7 +4,7 @@ Interactive story "The Girl from the Fourteenth Floor and the Rain" (Belarusian:
 
 The story is in Belarusian, developed for FireURQ, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the story. The story is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#girl_from_14_be). See the original Russian version [here](https://github.com/urqw/girl_from_14).
+This repository contains the source code and other resources of the story. The story is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=girl_from_14_be). See the original Russian version [here](https://github.com/urqw/girl_from_14).
 
 The story was first published on February 10, 2014.
 
